@@ -8,3 +8,6 @@
 
 ## 3d box回归
 <https://github.com/srinu6/Stereo-3D-Object-Detection-for-Autonomous-Driving> 双目rcnn直接检测3d box
+
+<https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN>　双目r-cnn,torch1.0 py3.6 有基于单目2d的轻量级版本,仅在dense aligment module使用双目图像.
+
